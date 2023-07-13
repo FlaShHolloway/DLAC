@@ -1,5 +1,5 @@
 # Deep Learning Anti-Cheat For CSGO
-
+# Use Python Version 3.9.11
 
 
 Input the directory with your .dem files and the model outputs predictions for every shot during the game.
